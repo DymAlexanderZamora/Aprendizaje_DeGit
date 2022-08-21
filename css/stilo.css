@@ -1,7 +1,10 @@
-head {
-    text-shadow: 10px;
+#header
+{
+    background-color: crimson;
+    color:goldenrod;
+    size: 50px;
+    text-align: center;
+    text-shadow: 5px;
 }
 
-h1{
-    text-align: center;
-}
+
